@@ -1,3 +1,6 @@
 # EasyOCR
-Optical Character Recognition
+##Optical Character Recognition
+
+
 ![demo](demo.png)
+![demo1](demo1.png)
