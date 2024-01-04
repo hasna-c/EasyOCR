@@ -1,5 +1,5 @@
 # EasyOCR
-##Optical Character Recognition
+## Optical Character Recognition
 
 
 ![demo](demo.png)
